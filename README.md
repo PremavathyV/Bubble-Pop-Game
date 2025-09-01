@@ -1,25 +1,28 @@
 **🎈 Bubble Pop Game**
 
-
 A fun and interactive bubble popping game built with Vite, TypeScript, and Tailwind CSS.
 
-🚀Features
 
-Simple & fun gameplay 🎮
 
-Responsive design 📱💻
+**🚀Features**
 
-Built using modern frontend stack ⚡
+1.Simple & fun gameplay 🎮
 
-🛠️ Tech Stack
+2.Responsive design 📱💻
 
-Vite – Fast frontend build tool
+3.Built using modern frontend stack ⚡
 
-TypeScript – Type-safe JavaScript
 
-Tailwind CSS – Utility-first CSS framework
+**🛠️ Tech Stack**
 
-📂 Project Structure
+1.Vite – Fast frontend build tool
+
+2.TypeScript – Type-safe JavaScript
+
+3.Tailwind CSS – Utility-first CSS framework
+
+
+**📂 Project Structure**
 project/
 ├── src/              # Source code (main game logic)
 │   ├── main.tsx      # Entry point
@@ -50,7 +53,9 @@ npm run build
 5️⃣ Preview production build
 npm run preview
 
-🎯 Gameplay
+
+
+**🎯 Gameplay**
 
 1.Click on the bubbles to pop them.
 
@@ -58,7 +63,9 @@ npm run preview
 
 3.Try to pop as many as you can before time runs out ⏳.
 
-💡 Future Enhancements:
+
+
+**💡 Future Enhancements:**
 
 **Add levels & difficulty modes
 
@@ -67,11 +74,12 @@ Add sound effects 🔊
 Add high score system 🏆**
 
 
-📬 Contact
+**📬 Contact**
 If you like this project, feel free to connect with me!
 
-LinkedIn: www.linkedin.com/in/premavathy-vijayan-921a39252
+**LinkedIn: www.linkedin.com/in/premavathy-vijayan-921a39252
 
 GitHub: https://github.com/PremavathyV
 
 Email: vprema376@example.com
+**
