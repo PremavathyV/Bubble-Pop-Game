@@ -13,6 +13,7 @@ A fun and interactive bubble popping game built with Vite, TypeScript, and Tailw
 3.Built using modern frontend stack ⚡
 
 
+
 **🛠️ Tech Stack**
 
 1.Vite – Fast frontend build tool
