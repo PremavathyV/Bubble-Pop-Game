@@ -34,6 +34,8 @@ project/
 ├── tailwind.config.js # Tailwind setup
 └── tsconfig.json     # TypeScript configuration
 
+
+
 ▶️ Getting Started
 1️⃣ Clone the repo
 git clone <your-repo-link>
